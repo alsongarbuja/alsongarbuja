@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... **Freelance**
+- 🔭 I’m currently working at ... **Freelance**
 - 🌱 I’m currently learning ... `React` and `flutter`
 - 👯 I’m looking to collaborate on ... **web development**
 - 🤔 I’m looking for help with ... `flutter` and `react`
