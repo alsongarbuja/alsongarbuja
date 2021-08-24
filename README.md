@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alson Garbuja</h1>
 <h3 align="center">Software developer from Nepal</h3>
 
-- 🔭 I’m currently working on [covid-19 stat web](www.covid19stat.tk)
+- 🔭 I’m currently working on [covid-19 stat web](https://github.com/Alson33/Covid-Stat)
 
 - 🌱 I’m currently learning **React, Next.js, Flutter**
 
