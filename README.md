@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [covid-19 stat web](https://github.com/Alson33/Covid-Stat)
 
-- 👨‍💻 See my portfolio [alsongarbuja.com.np](alsongarbuja.com.np)
+- 👨‍💻 See all my projects [here](https://github.com/Alson33?tab=repositories)
 
 - 💬 Ask me about **js, react**
 
