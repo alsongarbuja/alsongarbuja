@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [covid-19 stat web](https://github.com/Alson33/Covid-Stat)
 
-- 🌱 I’m currently learning **React, Next.js, Flutter**
+- 🌱 I’m currently learning **React, Next.js, Node.js**
 
 - 🤝 I’m looking for help with [covid-19 stat web](https://github.com/Alson33/Covid-Stat)
 
