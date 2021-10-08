@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alson Garbuja</h1>
 <h3 align="center">Software developer from Nepal</h3>
 
-- 🔭 I’m currently working on [react movie project](https://github.com/Alson33/React-Movie-Project)
+- 🔭 I’m currently working on [MERN-LMS](https://github.com/Alson33/MERN-LMS)
 
-- 🌱 I’m currently learning **React, Next.js, Node.js**
+- 🌱 I’m currently learning **MERN, Next.js**
 
 - 🤝 I’m looking for help with [covid-19 stat web](https://github.com/Alson33/Covid-Stat)
 
