@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alson Garbuja</h1>
-<h3 align="center">Software developer from Nepal</h3>
+<h3 align="center">Web and App developer from Nepal</h3>
 
-- 🔭 I’m currently working on [MERN-LMS](https://github.com/Alson33/MERN-LMS)
+- 🔭 I’m currently working on [React error pop package](https://github.com/Alson33/react-overlay-error-pop)
 
 - 🌱 I’m currently learning **MERN, Next.js**
 
-- 🤝 I’m looking for help with [covid-19 stat web](https://github.com/Alson33/Covid-Stat)
+- 🤝 I’m looking for help with **Flutter, Node.js**
 
 - 👨‍💻 See all my projects [here](https://github.com/Alson33?tab=repositories)
 
