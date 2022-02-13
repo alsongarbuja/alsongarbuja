@@ -21,3 +21,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alson33&show_icons=true&locale=en&layout=compact" alt="alson33" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alson33&margin-w=10&margin-h=10&theme=discord&no-frame=true&title=MultiLanguage,Commits,Repositories,PR,Followers,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
