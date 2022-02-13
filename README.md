@@ -23,3 +23,20 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alson33&margin-w=10&margin-h=10&theme=discord&no-frame=true&title=MultiLanguage,Commits,Repositories,PR,Followers,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
+<h3>Connect With Me</h3>
+
+<a href="https://www.linkedin.com/in/alsongarbuja/" target="_blank">
+  <img align="center" alt="Alson Garbuja | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/alsongarbuja" target="_blank">
+  <img align="center" alt="Alson Garbuja | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/alsongarbuja/" target="_blank">
+  <img align="center" alt="Alson Garbuja | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:magar33alson@gmail.com" >
+  <img align="center" alt="Alson Garbuja | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/alson.garbuja/">
+    <img align="center" alt="Alson Garbuja | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a> &nbsp;&nbsp;
