@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alson Garbuja</h1>
 <h3 align="center">Web and App developer from Nepal</h3>
 
-- 🔭 I’m currently working on [React error pop package](https://github.com/Alson33/react-overlay-error-pop)
+- 🔭 I’m currently working on **Some thing fun**
 
 - 🌱 I’m currently learning **MERN, Next.js**
 
