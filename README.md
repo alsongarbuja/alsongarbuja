@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alson33&show_icons=true&locale=en&layout=compact" alt="alson33" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alson33&show_icons=true&locale=en" alt="alson33" /></p>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=blueberry">    <img  alt="alson33's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/alson33?cardType=octocat&theme=blueberry" />  </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alson33&" alt="alson33" /></p>
 
