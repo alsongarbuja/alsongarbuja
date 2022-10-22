@@ -22,8 +22,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alsongarbuja&theme=blueberry&show_icons=true&locale=en&layout=compact" alt="alsongarbuja" />
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=blueberry">    <img  alt="alsongarbuja's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/alsongarbuja?cardType=octocat&theme=blueberry" />  </a>
+<img  alt="alsongarbuja's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/alsongarbuja?cardType=octocat&theme=blueberry" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alsongarbuja&theme=blueberry" alt="alsongarbuja" />
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsongarbuja&theme=nord&column=-1&margin-w=15" alt="alsongarbuja" /></a> 
+<img src="https://github-profile-trophy.vercel.app/?username=alsongarbuja&theme=nord&column=-1&margin-w=15" alt="alsongarbuja" />
