@@ -1,7 +1,7 @@
 <h1 align="center">&lt;Hi 👋, I'm Alson Garbuja/&gt;</h1>
 <h3 align="center">Web and Solo Game dev from Nepal, pokhara.</h3>
 
-- 🔭 I’m currently working on *(Avatar: The endless bender)*
+- 🔭 I’m currently working on [*(Avatar: The endless bender)*](https://github.com/folktalesgaming/avatar-theendlessbender)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alson33?tab=repositories](https://github.com/Alson33?tab=repositories)
 
