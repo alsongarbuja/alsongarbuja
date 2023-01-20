@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, js**
 
-- 📫 How to reach me **magar33alson@gmail.com**
+- 📫 How to reach me **ask@alsongarbuja.live**
 
 <br/>
 
