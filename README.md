@@ -9,9 +9,15 @@
 
 - 💬 Ask me about **react, js**
 
-- 📫 How to reach me **ask@alsongarbuja.live**
+- 📫 How to reach me **[magar33alson@gmail.com](mailto:magar33alson@gmail.com)**
 
 <br/>
+
+<div align="center">
+  <a href="https://user-badge.committers.top/nepal/alsongarbuja">
+    <img src="https://user-badge.committers.top/nepal/alsongarbuja.svg" alt="committers.top badge for alson garbuja" />
+  </a>
+ </div>
 
 <div align="center">
 <h3 align="center">Connect with me</h3>
@@ -33,9 +39,6 @@
 </div>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
-
-
 
 ### Web Dev  
 <div align="center">  
@@ -56,10 +59,6 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
-
-
-
 ### Game Dev and Others  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -70,21 +69,15 @@
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
 <br/>  
-
-<table><tr><td valign="top" width="50%">
 
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/alsongarbuja?cardType=octocat&theme=blueberry" align="left" />
 </div>
 
-</td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alsongarbuja&theme=blueberry&show_icons=true&locale=en&layout=compact" align="center" />
 
-</td></tr></table>
 <br />
 
 <img src="https://github-profile-trophy.vercel.app/?username=alsongarbuja&theme=nord&column=-1&margin-w=15" alt="alsongarbuja" />
