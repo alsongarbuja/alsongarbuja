@@ -1,9 +1,9 @@
 <h1 align="center">&lt;Hi 👋, I'm Alson Garbuja/&gt;</h1>
 <h3 align="center">Web and Solo Game dev from Nepal, pokhara.</h3>
 
-- 🔭 I’m currently working on [*(Avatar: The endless bender)*](https://github.com/folktalesgaming/avatar-theendlessbender)
+- 🔭 I’m currently working at few companies [*kapse*](https://github.com/kaapsey/), [*thanka digital*](https://github.com/thanka-digital), and few of my own projects [*polaris suite*](https://github.com/polaris-suite/polaris-suite), [*notetal*](https://github.com/alsongarbuja/notetal), [*Anime Gateway*](https://github.com/alsongarbuja/anime-gateway)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Alson33?tab=repositories](https://github.com/Alson33?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Alson33?tab=repositories](https://github.com/alsongarbuja?tab=repositories)
 
 - 🕹️ My Game projects are [@folktalesgaming](https://github.com/folktalesgaming)
 
