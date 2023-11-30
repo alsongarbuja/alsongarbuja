@@ -1,7 +1,7 @@
 <h1 align="center">&lt;Hi 👋, I'm Alson Garbuja/&gt;</h1>
 <h3 align="center">Sofware developer and Solo Game dev from Nepal, pokhara.</h3>
 
-- 🔭 I’m currently involved with few companies [*Thanka Digital Pvt. Ltd.*](https://github.com/thanka-digital), [*kapse*](https://github.com/kaapsey/), and few of my own projects [*polaris suite*](https://github.com/polaris-suite/polaris-suite), [*notetal*](https://github.com/alsongarbuja/notetal), [*Gulam Chor*](https://github.com/folktalesgaming/gulam-chor)
+- 🔭 I’m currently involved with few companies [*Thanka Digital Pvt. Ltd.*](https://github.com/thanka-digital), and few of my own projects [*polaris suite*](https://github.com/polaris-suite/polaris-suite), [*notetal*](https://github.com/alsongarbuja/notetal), [*Gulam Chor*](https://github.com/folktalesgaming/gulam-chor)
 
 - 👨‍💻 All of my projects are available on the [repositories tab](https://github.com/alsongarbuja?tab=repositories)
 
