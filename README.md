@@ -1,15 +1,17 @@
 <h1 align="center">&lt;Hi 👋, I'm Alson Garbuja/&gt;</h1>
 <h3 align="center">Sofware developer and Solo Game dev from Nepal, pokhara.</h3>
 
-- 🔭 I’m currently involved with few companies [*Thanka Digital Pvt. Ltd.*](https://github.com/thanka-digital), and few of my own projects [*polaris suite*](https://github.com/polaris-suite/polaris-suite), [*notetal*](https://github.com/alsongarbuja/notetal), [*Gulam Chor*](https://github.com/folktalesgaming/gulam-chor)
+- 🔭 I’m currently involved with few companies [*Thanka Digital Pvt. Ltd.*](https://github.com/thanka-digital), and few of my own projects [*polaris suite*](https://github.com/polaris-suite/polaris-suite), *unnamed (mobile application)*, and others 
+
+- Working in few private projects *exam yatra (releasing soon android e-learning application)*, *Gulam Chor (soon releasing android game)*, and more
 
 - 👨‍💻 All of my projects are available on the [repositories tab](https://github.com/alsongarbuja?tab=repositories)
 
 - 🕹️ My Game projects are [@folktalesgaming](https://github.com/folktalesgaming)
 
-- 💬 Ask me about **javascript, react, next js**
-
 - 📫 How to reach me **[magar33alson@gmail.com](mailto:magar33alson@gmail.com)**
+
+- Visit my website **[alsongarbuja.com.np](https://alsongarbuja.com.np)** or my bento site **[bento.me/alsongarbuja](https://bento.me/alsongarbuja)**
 
 <br/>
 
