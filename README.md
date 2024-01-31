@@ -15,12 +15,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://user-badge.committers.top/nepal/alsongarbuja">
-    <img src="https://user-badge.committers.top/nepal/alsongarbuja.svg" alt="committers.top badge for alson garbuja" />
-  </a>
-</div>
-
 ## 🌐 Socials:
 [![Facebook @alsongarbuja](https://img.shields.io/badge/@alsongarbuja-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alsongarbuja) [![Instagram @alsongarbuja](https://img.shields.io/badge/@alsongarbuja-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alsongarbuja) [![Linkedin @alsongarbuja](https://img.shields.io/badge/Connect_@alsongarbuja-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alsongarbuja) [![Tiktok @alsongarbuja](https://img.shields.io/badge/@alsongarbuja-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alsongarbuja) [![@alsongarbuja](https://img.shields.io/twitter/url/https/twitter.com/alsongarbuja.svg?style=social&label=Follow%20%40alsongarbuja)](https://twitter.com/alsongarbuja) 
 
