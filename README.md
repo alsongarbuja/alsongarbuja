@@ -1,7 +1,7 @@
 <h1 align="center">&lt;Hi 👋, I'm Alson Garbuja/&gt;</h1>
 <h3 align="center">Sofware developer and Solo Game dev from Nepal, pokhara.</h3>
 
-- 🔭 I’m currently involved with few companies [*Thanka Digital Pvt. Ltd.*](https://github.com/thanka-digital), and few of my own projects [*polaris suite*](https://github.com/polaris-suite/polaris-suite), *unnamed (mobile application)*, and others 
+- 🔭 I’m currently involved with few companies [*Thanka Digital Pvt. Ltd.*](https://github.com/thanka-digital), and few of my own projects [*polaris suite*](https://github.com/alsongarbuja/polaris-suite), [*neck tilt*](https://github.com/alsongarbuja/neck_tilt), and others 
 
 - Working in few private projects *exam yatra (releasing soon android e-learning application)*, *Gulam Chor (soon releasing android game)*, and more
 
