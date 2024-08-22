@@ -1,9 +1,9 @@
 <h1 align="center">&lt;Hi 👋, I'm Alson Garbuja/&gt;</h1>
 <h3 align="center">Sofware developer and Solo Game dev from Nepal, pokhara.</h3>
 
-- 🔭 I’m currently involved with [*Thanka Digital Pvt. Ltd.*](https://github.com/thanka-digital) an Software development company based in Nepal, and some game projects. 
-
-- Working in few private projects *Memories past within (story driven puzzle platformer 2d mobile game)*, and more
+- 🔭 I’m currently involved with [*Thanka Digital Pvt. Ltd.*](https://github.com/thanka-digital), software development company based in Nepal.
+  
+- Working in a game project *MANJUSHREE: THE LEGEND OF KATHMANDU (story driven semi-open world adventure game based on the folk stories of Manjushree)*
 
 - Visit my project [Gulam Chor](https://play.google.com/store/apps/details?id=org.folktalesgaming.gulamchor&pcampaignid=web_share) and [Exam Samaya](https://play.google.com/store/apps/details?id=com.thankadigital.examsamaya&pcampaignid=web_share)
 
