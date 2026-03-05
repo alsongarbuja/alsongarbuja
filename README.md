@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **[magar33alson@gmail.com](mailto:magar33alson@gmail.com)**
 
-- Visit my website **[alsongarbuja.com.np](https://alsongarbuja.com.np)** or my bento site **[bento.me/alsongarbuja](https://bento.me/alsongarbuja)**
+- Visit my website **[alsongarbuja.com.np](https://alsongarbuja.com.np)**
 
 <br/>
 
