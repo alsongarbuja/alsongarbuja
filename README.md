@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently involved with [*Thanka Digital Pvt. Ltd.*](https://github.com/thanka-digital), software development company based in Nepal.
   
-- Working in a game project [*MANJUSHREE: THE LEGEND OF KATHMANDU (story driven semi-open world adventure game inspired by the folk stories of Manjushree)*](https://github.com/folktalesgaming/MANJUSHREE_THE_LEGEND_OF_KATHMANDU) and open source frontend web template package [*Beej*](https://github.com/Thanka-Digital/beej-monorepo)
+- Working in a ASP.NET based time clock system [*TimeManager*](https://github.com/alsongarbuja/TimeManager) and open source frontend web template package [*Beej*](https://github.com/Thanka-Digital/beej-monorepo)
 
-- Visit some of projects [Thanka Digital](https://thankadigital.com), [Gulam Chor](https://play.google.com/store/apps/details?id=org.folktalesgaming.gulamchor&pcampaignid=web_share) and [Exam Samaya](https://play.google.com/store/apps/details?id=com.thankadigital.examsamaya&pcampaignid=web_share)
+- Visit some of projects [Thanka Digital](https://thankadigital.com), [Gulam Chor](https://play.google.com/store/apps/details?id=org.folktalesgaming.gulamchor&pcampaignid=web_share)
 
 - 👨‍💻 All of my projects are available on the [repositories tab](https://github.com/alsongarbuja?tab=repositories)
 
