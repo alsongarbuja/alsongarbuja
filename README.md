@@ -1,49 +1,80 @@
-## Ship · learn · repeat
-
 <div align="center">
 
 # Alson Garbuja
 
-> Full-stack engineer | Game Dev
+**Full-stack engineer · Game dev**
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=alsongarbuja&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F42911859%3Fu%3D7cc9009f817c12aa8239b73b921c9fdfee42c606%26v%3D4" alt="alsongarbuja hero visual" />
-</p>
+`▶ PRESS START` &nbsp;·&nbsp; Ship · Learn · Repeat
 
 </div>
 
-## The current loop
+<br/>
 
-- 📍 Based in **Cape Girardeau, MO, USA**
-- 🏢 Working at **@folktalesgaming @thanka-digital [@semo](https://semo.edu)**
-- 🌐 [Website](alsongarbuja.com.np)
-- 👥 **88** followers · **61** following
+## `player_one`
 
-*Small, useful work over vague claims.*
+```yaml
+name:             Alson Garbuja
+class:            Full-stack engineer / Game developer
+current_location: Cape Girardeau, MO, USA
+guilds:           [Folktales Gaming, Thanka Digital]
+current_quest:    Small, useful work over vague claims
+```
 
-## Things I’m building
+<br/>
 
-<table>
-<tr><td width="32%"><b><a href="https://github.com/Thanka-Digital/beej-monorepo">beej-monorepo</a></b></td><td>Monorepo for beej related packages, documentation and design systems<br/><sub>TypeScript · 3 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/alsongarbuja/unmark">unmark</a></b></td><td>Chrome extension to add reminder and clear your piled up bookmarks<br/><sub>TypeScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/folktalesgaming/MANJUSHREE_THE_LEGEND_OF_KATHMANDU">MANJUSHREE_THE_LEGEND_OF_KATHMANDU</a></b></td><td>Story based semi open game inspired by the legend of manjushree in Nepal and its capital Kathmandu.<br/><sub>HTML · 1 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/alsongarbuja/cloud-based-ai-resume-screening">cloud-based-ai-resume-screening</a></b></td><td>Cloud based AI Resume screening and job matching system for masters distributed cloud computing project.<br/><sub>TypeScript · 0 stars</sub></td></tr>
-</table>
+## `inventory`
 
-## Signals
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=alsongarbuja&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F42911859%3Fu%3D7cc9009f817c12aa8239b73b921c9fdfee42c606%26v%3D4" alt="alsongarbuja stats visual" />
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-111?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp&logoColor=9B4F96" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-111?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Godot-111?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="Godot" />
 </p>
 
-## The shipping calendar
+<br/>
+
+## `active_quests`
+
+| Quest | Type | Status |
+| :-- | :-- | :-- |
+| [**beej-monorepo**](https://github.com/Thanka-Digital/beej-monorepo)<br/><sub>Packages, docs and design systems</sub> | `TypeScript` | ⚔️ In progress |
+| [**unmark**](https://github.com/alsongarbuja/unmark)<br/><sub>Chrome extension that reminds you to clear piled-up bookmarks</sub> | `TypeScript` | ⚔️ In progress |
+| [**LLD**](https://github.com/alsongarbuja/LLD)<br/><sub>Static website documenting my journey to cracking interviews: LeetCode solutions, system design patterns, DSA and more</sub> | `Docs` | 📚 Side quest |
+| [**Manjushree: The Legend of Kathmandu**](https://github.com/folktalesgaming/MANJUSHREE_THE_LEGEND_OF_KATHMANDU)<br/><sub>Story-driven semi-open game inspired by Nepali legend</sub> | `Game` | 🎮 Side quest |
+| [**cloud-based-ai-resume-screening**](https://github.com/alsongarbuja/cloud-based-ai-resume-screening)<br/><sub>AI resume screening and job matching on the cloud</sub> | `TypeScript` | 🧪 Grad project |
+
+<br/>
+
+## `why_games`
+
+<p align="center">
+  <img src="anim.svg" width="100%" alt="Animated pixel-art scene of a character running, jumping over a slime and collecting coins while passion bars fill to MAX" />
+</p>
+
+<p align="center"><sub><code>input → update → render → repeat</code></sub></p>
+
+<br/>
+
+## `activity_log`
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=alsongarbuja&theme=satan" alt="alsongarbuja contribution activity" />
 </p>
 
-## Work with me
+<br/>
 
-<a href="https://linkedin.com/in/alsongarbuja">Linkedin</a> · <a href="https://alsongarbuja.com.np">Website</a>
+## `multiplayer`
 
-<p align="center"><sub>Alson Garbuja · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+Open to collabs, co-op projects and good conversations.
+
+[**Website**](https://alsongarbuja.com.np) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/alsongarbuja)
+
+<br/>
+
+<div align="center">
+  <sub><code>GAME NOT OVER</code> · keep shipping 🕹️</sub>
+</div>
